@@ -1,0 +1,50 @@
+.navbar-nav {
+    flex-direction: row;
+  }
+  
+  .nav-link {
+    padding-right: .5rem !important;
+    padding-left: .5rem !important;
+  }
+
+  body{
+    background: url("images/bookmark-bowl-candle-705675.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  height: 100%;
+  }
+  
+  .change{
+  margin-top: 245px;
+    text-align: center;
+  }
+  
+html{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+  @media(max-width:768px){
+  h1{
+      background-color: #449d44;
+  }
+  h2{
+      background-color: #449d44;
+  }
+}
+@media(min-width:768px){
+  h1{
+      background-color: skyblue;
+      opacity: 0.8;
+  }
+} 
+.dropdown-item{
+  padding-left: 0px;
+  padding-top: 5px;
+}
+
+
+
+
